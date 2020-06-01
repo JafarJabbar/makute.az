@@ -1,0 +1,200 @@
+@media(max-width: 1199px){
+	.get_quote_area .pull-left{
+		float: none !important;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.get_quote_area .pull-right{
+		float: none !important;
+		text-align: center;
+	}
+	.who_we_image img {
+		width: 100%;
+	}
+	.our_service_area .left_service {
+		width: 100%;
+		float: none;
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+
+}
+@media(max-width: 992px){
+	.header_top_area .pull-left a {
+		margin-right: 35px;
+	}
+	.header_top_area .pull-left a:first-child::before {
+		left: -8px;
+	}
+	.header_top_area .pull-left a:first-child {
+		margin-left: 8px;
+	}
+	.navbar-toggle {
+		margin-top: 20px;
+		margin-bottom: 20px;
+		border: 1px solid #EEEEEE !important;
+		background: transparent !important;
+		margin-right: 0px;
+	}
+	.navbar-toggle .icon-bar {
+		background-color: #EEEEEE !important;
+	}
+	.main_slider_area .rev_slider .tp-bullets .tp-bullet:hover, .main_slider_area .rev_slider .tp-bullets .tp-bullet.selected {
+		display: none;
+	}
+	.main_menu_area .navbar.navbar-default .nav.navbar-nav.navbar-right li.icon_search a {
+		position: relative;
+		display: inline-block;
+	}
+	.main_menu_area .navbar.navbar-default .nav.navbar-nav.navbar-right li.submenu .dropdown-menu li a {
+		padding: 0px 15px;
+	}
+	.main_menu_area .navbar.navbar-default .navbar-collapse{
+		max-height: 366.5px;
+		overflow-y: scroll;
+	}
+	.our_project_details .project_item {
+		width: calc(100% / 2);
+	}
+	.counter_inner .col-sm-6{
+		margin-bottom: 30px;
+	}
+	.testimonials_area .main_w_title {
+		margin-bottom: 50px;
+	}
+	.latest_news_inner{
+		margin-bottom: -30px;
+		overflow: hidden;
+	}
+	.latest_news_inner .col-sm-6{
+		margin-bottom: 30px;
+	}
+	.address_inner{
+		margin-bottom: -30px;
+	}
+	.address_inner .col-md-4{
+		margin-bottom: 30px;
+	}
+	.footer_widgets_inner{
+		margin-bottom: -40px;
+		overflow: hidden;
+	}
+	.footer_widgets_inner .col-sm-6{
+		margin-bottom: 40px;
+	}
+	.transparent_menu .main_menu_area {
+		background: #fff;
+	}
+	.transparent_menu .main_menu_area .navbar.navbar-default .navbar-header .navbar-brand img + img {
+		display: inline-block;
+	}
+	.transparent_menu .main_menu_area .navbar.navbar-default .navbar-header .navbar-brand img  {
+		display: none;
+	}
+	.transparent_menu .main_menu_area .navbar.navbar-default .nav.navbar-nav.navbar-right li a {
+		color: #31353d;
+	}
+	.main_menu_area .navbar.navbar-default .nav.navbar-nav.navbar-right li.submenu .dropdown-menu {
+		z-index: 99999;
+	}
+	.feature_content .row{
+		margin-bottom: -30px;
+		overflow: hidden;
+	}
+	.feature_content .col-sm-6{
+		margin-bottom: 30px;
+	}
+	.b_company_image img{
+		width: 100%;
+	}
+	.sidebar_area{
+		margin-top: 50px;
+		max-width: 310px;
+	}
+	.main_menu_area .navbar.navbar-default .navbar-header .navbar-brand {
+		line-height: 72px;
+	}
+	.main_header_area + section, .main_header_area + div, .main_header_area + .row {
+		margin-top: 127px;
+	}
+	.main_menu_area .navbar.navbar-default .nav.navbar-nav.navbar-right li a {
+		line-height: 46px;
+	}
+	.our_project2_area.our_project_two_column .our_project_details .col-md-6 {
+		padding: 0px;
+		width: 100%;
+	}
+	.project_grid_two .our_project_details{
+		max-width: 540px;
+		margin: auto;
+	}
+	.our_latest_slider {
+		padding: 0px 0px;
+	}
+	.our_latest_slider .owl-prev, .our_latest_slider .owl-next {
+		display: none;
+	}
+	.our_skill_inner{
+		margin-top: 30px;
+	}
+}
+@media(max-width: 767px){
+	.header_top_area{
+		display: none;
+	}
+	.latest_news_item{
+		max-width: 350px;
+		margin: auto;
+	}
+	.f_content_item {
+		max-width: 360px;
+		margin: auto;
+	}
+	.b_companu_l_text{
+		margin-bottom: 30px;
+	}
+	.our_project_details{
+		max-width: 380px;
+		margin: 0px auto -30px;
+	}
+	.our_project2_area .our_project_filter li a {
+		border: none;
+	}
+	.our_project2_area .our_project_filter li.active a {
+		border: none;
+		color: #ffcd00;
+	}
+	.copy_right_inner .pull-left{
+		float: none !important;
+		margin-bottom: 25px;
+	}
+	.copy_right_inner .pull-right{
+		float: none !important;
+	}
+	.like_post .like_post_item a img {
+		width: auto;
+		max-width: 100%;
+	}
+	.like_post{
+		max-width: 348px;
+	}
+	.like_post .like_post_item{
+		margin-bottom: 30px;
+	}
+	.blog_d_text {
+		padding-left: 0px;
+	}
+	.main_header_area + section, .main_header_area + div, .main_header_area + .row {
+		margin-top: 74px;
+	}
+	.our_project2_area.our_project_two_column .our_project_details {
+		max-width: 100%;
+	}
+	.get_quote_area .pull-left h4 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+}
+@media(max-width: 575px){
+
+}
